@@ -1,4 +1,4 @@
-package com.software.solutions.inc.solutions.software.afectationsusers.controller;
+package com.software.solutions.inc.solutions.software.compensations.afectationsusers.controller;
 
 import org.springframework.stereotype.Controller;
 
